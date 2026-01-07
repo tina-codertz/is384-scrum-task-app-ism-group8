@@ -11,8 +11,3 @@
 ## Sprint Goal
 Deliver a functional cloud-based task management application that enables users to create, assign, view, and complete tasks within one sprint.
 
-## Definition of Done
-- Feature implemented and committed to GitHub
-- Changes reviewed through a Pull Request
-- No merge conflicts or build errors
-- Documentation updated
