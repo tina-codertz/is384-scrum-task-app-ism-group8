@@ -7,7 +7,7 @@ This project is a cloud-based task management application using the scrum framew
 Christina Justine Kimario Scrum master 31703/T.2023
 Cirilo Henry Villarta Developer1 31705/T.2023
 Patrick Niboye  Developer2 30284/T.2023
-Marlon Developer3
+Marlon Barnabas Nkonya Developer3 31202/T.2023
 Sabra Panduka Develoer4 30780/T.2023
 Pilly Linox Norasko Developer5 31309/T.2023
 
