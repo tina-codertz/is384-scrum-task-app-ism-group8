@@ -10,7 +10,7 @@ The project simulates a single Scrum sprint to demonstrate Agile teamwork and Gi
 ## Group Members and Roles
 
 - **Philly Linox Norasko** – Scrum Master  
-  Registration Number: 31703/T.2023
+  Registration Number: 31309/T.2023
 
 - **Cirilo Henry Villarta** – Product Owner  
   Registration Number: 31705/T.2023
@@ -24,7 +24,7 @@ The project simulates a single Scrum sprint to demonstrate Agile teamwork and Gi
   Registration Number: 30780/T.2023
 
 - **Christina Justine Kimario** – Developer 4  
-  Registration Number: 31309/T.2023
+  Registration Number: 31703/T.2023
 
 ---
 
