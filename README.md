@@ -16,4 +16,4 @@ this repository demonstrates a sprint scrum workflow including
 -scrum roles
 -scrum artifacts
 -sprint planning
--git balancing,commits and pull request
+-git balancing,commits and pull requestgit pull origin main
