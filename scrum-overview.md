@@ -1,6 +1,6 @@
 ## Scrum Role: Scrum Master
 
-**Name:** christina justine kimario 
+**Name:** christina kimario  
 **Responsibilities:**
 - Facilitate all Scrum events
 - Ensure Scrum framework is followed
@@ -31,7 +31,7 @@
   - What was completed yesterday?
   - What will be done today?
   - Any blockers?
-`
+
 ---
 
 ### Sprint Review
