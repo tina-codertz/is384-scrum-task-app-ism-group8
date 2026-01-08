@@ -1,71 +1,25 @@
-## Scrum Role: Scrum Master
-
-**Name:** christina justine kimario 
-**Responsibilities:**
-- Facilitate all Scrum events
-- Ensure Scrum framework is followed
-- Remove impediments affecting the team
-- Promote collaboration among team members
-- Ensure Scrum artifacts are transparent and up to date
-
----
-
 ## Scrum Events
 
 ### Sprint Planning
-- **Purpose:** Define the sprint goal and select product backlog items for the sprint
-- **Participants:** Product Owner, Scrum Master, Developers
-- **Duration:** 1–2 hours
-- **Activities:**
-  - Review and prioritize the Product Backlog
-  - Select items for the Sprint Backlog
-  - Define the Sprint Goal
-
----
+The team will conduct a Sprint Planning meeting at the beginning of the sprint to define the sprint goal and select items from the product backlog to include in the sprint backlog. The Product Owner will present the backlog items, and the development team will estimate and commit to the tasks.
 
 ### Daily Scrum
-- **Purpose:** Track progress and plan work for the next 24 hours
-- **Participants:** Developers (Scrum Master facilitates if needed)
-- **Duration:** 15 minutes
-- **Discussion Points:**
-  - What was completed yesterday?
-  - What will be done today?
-  - Any blockers?
-
----
+A Daily Scrum meeting will be held every day for 15 minutes. Team members will discuss what they worked on, what they plan to work on next, and any challenges or blockers they are facing.
 
 ### Sprint Review
-- **Purpose:** Review completed work and gather feedback
-- **Participants:** Scrum Team and stakeholders
-- **Duration:** 1 hour
-- **Activities:**
-  - Demonstrate completed features
-  - Collect feedback for future improvements
-
----
+At the end of the sprint, the team will hold a Sprint Review meeting to demonstrate the completed features of the task management application to stakeholders. Feedback will be collected for future improvements.
 
 ### Sprint Retrospective
-- **Purpose:** Improve team processes
-- **Participants:** Scrum Team
-- **Duration:** 45 minutes
-- **Focus Areas:**
-  - What went well?
-  - What didn’t go well?
-  - What can be improved?
+After the Sprint Review, the team will conduct a Sprint Retrospective to reflect on what went well, what did not go well, and how the team can improve processes in the next sprint.
 
----
 
 ## Scrum Artifacts
 
 ### Product Backlog
-A prioritized list of all required features for the Task Management App, maintained by the Product Owner.
-
----
+The Product Backlog is a prioritized list of all features and requirements for the Cloud-Based Task Management App. It is owned and managed by the Product Owner and continuously updated based on feedback and project needs.
 
 ### Sprint Backlog
-A list of selected product backlog items planned for the current sprint, including tasks and responsibilities.
-
----
+The Sprint Backlog consists of selected items from the Product Backlog that the team commits to completing during the sprint. It also includes a plan for delivering these items within the sprint timeframe.
 
 ### Increment
-The final working version of the Task Management App at the end of the sprint, containing completed features that meet the Definition of Done.
+The Increment represents the sum of all completed product backlog items at the end of the sprint. It is a potentially shippable version of the application that meets the Definition of Done.
