@@ -31,7 +31,7 @@
   - What was completed yesterday?
   - What will be done today?
   - Any blockers?
-
+`
 ---
 
 ### Sprint Review
