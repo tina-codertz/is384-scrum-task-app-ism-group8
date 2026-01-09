@@ -18,10 +18,11 @@ Deliver a functional cloud-based task management application that enables users 
    - Status: To Do
 
 2. **Assign Task to User**
-   - Owner: Cirilo Henry Villarta (Product Owner)
+   - Owner: Christina Justine Kimario (Scrum Master)
+   - Status: To Do  
+3. **Mark Scrum Roles**
+   - Owner: Patrick Josephat Niboye (Developer 1)
    - Status: To Do
-   
-
 3. **Mark Task Complete**
    - Owner: Marlon Barnabas Nkonya (Developer 2)
    - Status: To Do
