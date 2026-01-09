@@ -8,8 +8,7 @@
 3. Mark a task as complete
 4. View all tasks in a task list
 5. Receive notifications when tasks are assigned
-## Sprint Goal
-Enable support features for task assignment, tracking, and notifications in the Cloud-Based Task Management App.
+
 
 ## Product Backlog (Sprint Tasks)
 1. **Add New Task**
@@ -19,6 +18,7 @@ Enable support features for task assignment, tracking, and notifications in the 
 2. **Assign Task to User**
    - Owner: Cirilo Henry Villarta (Product Owner)
    - Status: To Do
+   
 
 3. **Mark Task Complete**
    - Owner: Marlon Barnabas Nkonya (Developer 2)
