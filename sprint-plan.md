@@ -1,6 +1,4 @@
 
-## Scrum Roles
-- Product Owner: Cirilo H. Villarta
 
 ## Product Backlog
 1. Create a new task with title, description, and due date
