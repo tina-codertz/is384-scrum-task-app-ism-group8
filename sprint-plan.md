@@ -11,6 +11,9 @@
 # Sprint Plan – Support/Implementation
 
 
+## Sprint Goal
+Deliver a functional cloud-based task management application that enables users to create, assign, view, and complete tasks within one sprint.
+
 ## Product Backlog (Sprint Tasks)
 1. **Add New Task**
    - Owner: Cirilo Henry Villarta (Product Owner)
@@ -33,8 +36,7 @@
    - Owner: Pilly Linox Norasko (Developer 4)
    - Status: In Progress
 
-## Sprint Goal
-Deliver a functional cloud-based task management application that enables users to create, assign, view, and complete tasks within one sprint.
+
 
 
 ## Definition of Done (DoD)
