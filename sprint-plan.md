@@ -24,8 +24,3 @@ Enable support features for task assignment, tracking, and notifications in the 
    - Owner: Pilly Linox Norasko (Developer 4)
    - Status: In Progress
 
-## Definition of Done (DoD)
-- Code changes pushed to GitHub branch  
-- Unit tests for implemented features pass successfully  
-- Documentation updated (`scrum-overview.md` and `sprint-plan.md`)  
-- PR reviewed and approved by the team
